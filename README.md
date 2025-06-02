@@ -1,2 +1,2 @@
 # pyro101
-Learning Pyro library for probabilistic ML and FL
+Self-learning probabilistic AI with Pyro and PyTorch
